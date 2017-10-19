@@ -16,6 +16,8 @@ I hope everyone is enjoying using git.
 Here is some text in the second level.
 Adding another line that will show up on the web.
 
+## Section 3
+
 **bold**
 
 *italics*
